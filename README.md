@@ -1,4 +1,4 @@
-# AI Chatbot (Spring 2023)
+# Simple AI Chatbot (Spring 2023)
 
 A simple emotional support chatbot that detects user's negative emotions and extreme behavior tendencies.
 
