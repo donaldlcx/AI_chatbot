@@ -1,6 +1,7 @@
 # Simple AI Chatbot (Spring 2023)
 
 A simple emotional support chatbot that detects user's negative emotions and extreme behavior tendencies. All the code was designed and completed by me, except for the part that connects to the free VTuber avatar (free "live2D" model).
+The presentation ppt at that time includes the actual demo with the virtual VTuber added.
 
 ## Overview
 
